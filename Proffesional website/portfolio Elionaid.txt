@@ -19,8 +19,8 @@ Folder Structure:
 </head>
 <body>
   <header>
-    <h1>John Doe</h1>
-    <p>Software Engineer</p>
+    <h1>Elionaid Granados</h1>
+    <p>IT Proffesional</p>
     <nav>
       <a href="#about">About</a>
       <a href="#skills">Skills</a>
@@ -152,4 +152,5 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
 
