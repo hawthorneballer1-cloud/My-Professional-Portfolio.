@@ -61,7 +61,7 @@ Folder Structure:
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email me at: <a href="mailto:johndoe@example.com">johndoe@example.com</a></p>
+    <p>Email me at: <a href="mailto:hawthorneballer1@gmail.com">hawthorneballer1@gmail.com</a></p>
     <p>
       <a href="https://github.com/johndoe" target="_blank">GitHub</a> |
       <a href="https://linkedin.com/in/johndoe" target="_blank">LinkedIn</a>
@@ -152,5 +152,6 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
 
 
